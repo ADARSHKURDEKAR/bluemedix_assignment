@@ -1,3 +1,61 @@
+# BlueMedix Dashboard
+
+A modern dashboard application built with React for managing users and products. This project was created as part of the BlueMedix Frontend Developer case study.
+
+## Features
+
+- User Management (CRUD operations)
+- Product Management (CRUD operations)
+- Responsive Design
+- Clean and Modern UI
+- Form Validation
+- Error Handling
+
+## Technologies Used
+
+- React
+- React Router
+- Axios
+- Bootstrap
+- FakeStore API
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone [your-repository-url]
+```
+
+2. Install dependencies:
+```bash
+cd my-app
+npm install
+```
+
+3. Start the development server:
+```bash
+npm start
+```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Project Structure
+
+- `/src/components` - React components
+- `/src/services` - API services
+- `/src/App.js` - Main application component
+- `/src/App.css` - Global styles
+
+## API Integration
+
+This project uses the FakeStore API for demonstration purposes. The API endpoints include:
+- `/users` - User management
+- `/products` - Product management
+
+## Contributing
+
+This is a case study project for BlueMedix. Please refer to the assignment guidelines for contribution rules.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
